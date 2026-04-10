@@ -1,9 +1,9 @@
 
-👗 Smart Me – AI Fashion Assistant
+#👗 Smart Me – AI Fashion Assistant
 
-Author(s): chhakuli Rajesh Raut  
-affiliation: Suryodaya College of Engineering and Technology  
-Date: 2026  
+#Author(s): chhakuli Rajesh Raut  
+#affiliation: Suryodaya College of Engineering and Technology  
+#Date: 2026  
 
 
 # Abstract
@@ -23,21 +23,21 @@ Existing systems like fashion recommendation apps and e-commerce platforms provi
 The system works in three main stages. First, the user uploads an image of clothing along with price input. Second, a Convolutional Neural Network (CNN) model processes the image and classifies the clothing type (e.g., shirt, jeans, dress). Third, a recommendation engine suggests matching outfits, shoes, and styling tips based on the detected item and budget. The system is deployed using a Flask web application for user interaction.
 
 
-Implementation
+#Implementation
 - **Programming Language:** Python  
 - **Libraries/Frameworks:** TensorFlow, Keras, OpenCV, Scikit-learn, Flask  
 - **Tools Used:** VS Code, Jupyter Notebook, GitHub  
 
-Modules:
+#Modules:
 - Image Classification (Deep Learning)
 - Recommendation System
 - Web Application Interface
 
 
-Results and Discussion
+#Results and Discussion
 The system successfully identifies clothing items from images and provides relevant outfit suggestions. It improves user experience by offering quick and personalized fashion advice. The model performs well on basic clothing categories and demonstrates the practical use of AI in real-world applications.
 
- Limitations
+ #Limitations
 - Limited dataset affects accuracy  
 - Works only on basic clothing categories  
 - No real-time camera integration (currently image upload only)  
@@ -45,7 +45,7 @@ The system successfully identifies clothing items from images and provides relev
 
 
 
- Future Scope
+ #Future Scope
 - Add real-time camera detection  
 - Improve accuracy with larger datasets  
 - Add virtual try-on feature  
@@ -53,12 +53,12 @@ The system successfully identifies clothing items from images and provides relev
 - Support multiple languages  
 
 
-Conclusion
+#Conclusion
 The Smart Me AI Fashion Assistant demonstrates how AI and Deep Learning can be used to simplify fashion decisions. The system provides intelligent outfit recommendations based on image input and budget, making it useful for everyday users. With further improvements, it can become a powerful tool in the fashion and retail industry.
 
 
 
-References
+#References
 1. TensorFlow Documentation  
 2. OpenCV Documentation  
 3. Scikit-learn Library  
