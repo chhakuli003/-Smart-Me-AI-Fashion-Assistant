@@ -100,8 +100,7 @@ The system considers the user's budget and provides recommendations that fall wi
 
 System Execution
 
-The application runs on a local Flask server. Users access the system through a web browser, upload an image, and receive personalized fashion recommendations instantly
----
+
 
 ## Results and Discussion
 The system successfully identifies clothing items from images and provides relevant outfit suggestions. It improves user experience by offering quick and personalized fashion advice. The model performs well on basic clothing categories and demonstrates the practical use of AI in real-world applications.
